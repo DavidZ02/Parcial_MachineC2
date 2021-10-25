@@ -1,0 +1,3 @@
+/home/david/Documentos/Linux/MachineLearn/Qt/regresionLineal/Debug/CMakeFiles/rebuild_cache.dir
+/home/david/Documentos/Linux/MachineLearn/Qt/regresionLineal/Debug/CMakeFiles/edit_cache.dir
+/home/david/Documentos/Linux/MachineLearn/Qt/regresionLineal/Debug/CMakeFiles/regresionLineal.dir

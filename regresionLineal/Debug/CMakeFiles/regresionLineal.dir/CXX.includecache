@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/Documentos/Linux/MachineLearn/Qt/regresionLineal/exeigennorm.h
+iostream
+-
+fstream
+-
+Eigen/Dense
+-
+vector
+-
+
+/home/david/Documentos/Linux/MachineLearn/Qt/regresionLineal/linealregresion.h
+Eigen/Dense
+-
+iostream
+-
+cmath
+-
+vector
+-
+
+/home/david/Documentos/Linux/MachineLearn/Qt/regresionLineal/main.cpp
+exeigennorm.h
+/home/david/Documentos/Linux/MachineLearn/Qt/regresionLineal/exeigennorm.h
+linealregresion.h
+/home/david/Documentos/Linux/MachineLearn/Qt/regresionLineal/linealregresion.h
+iostream
+-
+stdlib.h
+-
+Eigen/Dense
+-
+boost/algorithm/string.hpp
+-
+vector
+-
+
